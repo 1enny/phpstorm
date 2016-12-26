@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="639" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="358" y="212" />
+    <location key="SettingsEditor.0.0.1280.800" x="121" y="48" />
+    <location key="#Browse_Repositories.0.0.1280.800" x="228" y="47" />
+    <location key="#Plugins.0.0.1280.800" x="240" y="50" />
+    <location key="StructurePopup.0.0.1280.800" x="447" y="164" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.800" x="351" y="191" />
+    <location key="NewPhpClassDialog.0.0.1280.800" x="340" y="221" />
+    <location key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0.0.0.1280.800" x="402" y="23" />
+    <location key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1.0.0.1280.800" x="419" y="163" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.800" x="453" y="107" />
+    <location key="#CLI_Interpreters.0.0.1280.800" x="227" y="60" />
+    <location key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog.0.0.1280.800" x="0" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.800" x="104" y="60" />
+    <location key="#Servers.0.0.1280.800" x="227" y="60" />
+    <size key="StructurePopup.0.0.1280.800" width="386" height="421" />
+    <size key="SettingsEditor.0.0.1280.800" width="1037" height="701" />
+    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.1.left.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.1.center.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.1.right.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.2.left.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.2.center.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.2.right.0.0.1280.800" width="1280" height="287" />
+    <size key="GridCell.Tab.2.bottom.0.0.1280.800" width="1280" height="287" />
+  </component>
+</application>

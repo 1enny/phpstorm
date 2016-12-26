@@ -1,0 +1,122 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/PHP Console" timestamp="1480356854052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1480356688137">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/local/etc/php/5.6/php.ini" timestamp="1480264107827">
+        <mark key="'" line="1973" column="22" />
+      </file>
+      <file name="/fragment.php" timestamp="1480356845060">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" timestamp="1480356110404">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/laravel-lessons/project/app/Http/Controllers/PageController.php" timestamp="1480356732629">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="44" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="30" column="2" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="29" column="4" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/laravel-lessons/project/app/Http/routes.php" />
+      <jump line="30" column="67" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="2001" column="0" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="2000" column="0" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="275" column="48" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="470" column="2" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="505" column="51" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="511" column="13" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="514" column="22" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="1966" column="2" filename="/usr/local/etc/php/5.6/php.ini" />
+      <jump line="1973" column="22" filename="/usr/local/etc/php/5.6/php.ini" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpe30pOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpe30pOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnMScpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnYXNkJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Um91dGU6OnBhdGNoKCdub3Rlcy97bm90ZX0nLCAnTm90ZXNDb250cm9sbGVyQHVwZGF0ZScpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>PageController</text>
+      </register>
+      <register name="/" type="4">
+        <text>debug</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>debug</last-search>
+      <last-offset />
+      <last-pattern>debug</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>xdebug</entry>
+        <entry>debug</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set showmode</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

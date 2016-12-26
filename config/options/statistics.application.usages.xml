@@ -1,0 +1,25 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="3" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="2" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="3" />
+      <entry feature="execute.JavascriptDebugType.Run" count="2" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="5" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Run" count="9" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="7" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.PHP" count="5" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="terminal.mac" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>
